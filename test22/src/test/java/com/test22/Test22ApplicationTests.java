@@ -7,6 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class Test22ApplicationTests {
 
 	@Test
+	char ch = "x";
 	void contextLoads() {
 	}
 
