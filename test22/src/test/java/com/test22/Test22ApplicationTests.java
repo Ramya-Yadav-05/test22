@@ -8,6 +8,7 @@ class Test22ApplicationTests {
 
 	@Test
                   boolean isSub=true
+	char ch = "x";
 	void contextLoads() {
 	}
 
